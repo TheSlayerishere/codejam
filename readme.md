@@ -3,3 +3,7 @@ so they can never build nuclear bombs.
 
 ![amay428](https://avatars3.githubusercontent.com/u/40866259?s=400&u=4c01f1ed52a5816b43c439281806386bd0e5e5c1&v=4)
 ![gaffclant](https://avatars3.githubusercontent.com/u/65436210?s=400&v=4)
+
+
+
+#So fuck it when I eventually get the time I'll be working on this in unity, everything will be rewritten in C#
